@@ -1,0 +1,5 @@
+{
+  "ADMIN_ID": "test@test.com",
+  "TABLE_NAME": "{config_table}" ,
+  "REGION": "{conf-region}"
+}

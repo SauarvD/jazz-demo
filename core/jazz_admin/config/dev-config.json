@@ -1,0 +1,5 @@
+{
+  "ADMIN_ID": "{jazz_admin}",
+  "TABLE_NAME": "{config_table}" ,
+  "REGION": "{conf-region}"
+}
